@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### About Me
 * 🏡 I'm based in Ha Noi,Viet Nam.
-* 👨‍💻 Since 2016, I've been immersed in the world of coding, constantly learning and growing in this ever-evolving field. What drives me is not just the technical challenges, but the dedication to delivering quality work. While technology is my profession, I believe in maintaining a balanced life. When I'm not writing code, I cherish spending quality time with my family. My free time is filled with diverse interests – you might find me enjoying a good movie, getting lost in music, diving into an interesting book, catching up on the latest news, or playing soccer with friends. I find that this balance between professional growth and personal interests helps me stay creative and energized in my work as a software engineer.
+* 👨‍💻 Since 2016, I've been immersed in the world of coding, constantly learning and growing in this ever-evolving field. What drives me is not just the technical challenges, but the dedication to delivering quality work. While technology is my profession, I believe in maintaining a balanced life. When I'm not working, I cherish spending quality time with my family. My free time is filled with diverse interests – you might find me enjoying a good movie, getting lost in music, diving into an interesting book, catching up on the latest news, or playing soccer with friends. I find that this balance between professional growth and personal interests helps me stay creative and energized in my work as a software engineer.
 * ✉️  You can contact me at [vietnguyen1103@gmail.com](mailto:vietnguyen1103@gmail.com)
 
 ### Skills
